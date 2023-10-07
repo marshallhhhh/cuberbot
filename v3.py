@@ -1,4 +1,3 @@
-from concurrent.futures.thread import BrokenThreadPool
 import discord
 import os
 import uuid
