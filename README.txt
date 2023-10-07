@@ -1,5 +1,5 @@
 Add your bot token to config.json
-You can also change the command prefix and the emoji that surrounds the scramble text in the message(default is a rubiks cube). This appears in messages as 
+You can also change the command prefix (default r@) and the emoji the bot uses (default is a rubiks cube). 
 
 available commands are
 r@scramble 3x3
